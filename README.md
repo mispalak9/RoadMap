@@ -23,6 +23,68 @@ This repository contains a curated roadmap for full stack development, including
 * DevOps (Docker, CI/CD, AWS/Azure/GCP)
 * Deployment (Netlify, Heroku, Vercel)
 
+                          +---------------+  
+                          |  Full Stack  |  
+                          +---------------+  
+                              |  
+                              |  
+                              v  
+                          +---------------+  
+                          |  Frontend   |         |  Backend   |  
+                          |  Development  |         |  Development  |  
+                          +---------------+         +---------------+  
+                              |                    |  
+                              |                    |  
+                              v                    v  
+                          +---------------+         +---------------+  
+                          |  HTML/CSS   |         |  Programming  |  
+                          |  JavaScript  |         |  Language   |  
+                          |  Responsive  |         |  (JavaScript,  |  
+                          |  Design    |         |  Python, Java,  |  
+                          |  CSS      |         |  C#)      |  
+                          |  Preprocessors|         +---------------+  
+                          +---------------+         |  
+                              |                    |  
+                              |                    |  
+                              v                    v  
+                          +---------------+         +---------------+  
+                          |  Frontend   |         |  Web      |  
+                          |  Frameworks  |         |  Frameworks  |  
+                          |  (React,    |         |  (Express.js,  |  
+                          |  Angular,   |         |  Django, Flask, |  
+                          |  Vue.js)    |         |  Spring Boot) |  
+                          +---------------+         +---------------+  
+                              |                    |  
+                              |                    |  
+                              v                    v  
+                          +---------------+         +---------------+  
+                          |  State     |         |  Databases  |  
+                          |  Management  |         |  (SQL, NoSQL) |  
+                          |  APIs      |         +---------------+  
+                          |  Build Tools |         |  
+                          |  Testing    |         |  
+                          |  Git & GitHub|         |  
+                          +---------------+         |  
+                              |                    |  
+                              |                    |  
+                              v                    v  
+                          +---------------+         +---------------+  
+                          |  Deployment  |         |  DevOps    |  
+                          |  (Netlify,  |         |  (Docker, CI/CD, |  
+                          |  Heroku,    |         |  AWS/Azure/GCP) |  
+                          |  Vercel)    |         +---------------+  
+                          +---------------+         |  
+                              |                    |  
+                              |                    |  
+                              v                    v  
+                          +---------------+         +---------------+  
+                          |  APIs      |         |  Security   |  
+                          |  (REST,    |         |  Authentication|  
+                          |  GraphQL)   |         |  (JWT, OAuth)  |  
+                          +---------------+         +---------------+
+
+
+
 **Frontend Development Roadmap**
 * HTML/CSS
 * JavaScript
@@ -35,6 +97,54 @@ This repository contains a curated roadmap for full stack development, including
 * Testing
 * Git & GitHub
 
+
+                          +---------------+  
+                          |  Frontend   |  
+                          |  Development  |  
+                          +---------------+  
+                              |  
+                              |  
+                              v  
+                          +---------------+  
+                          |  HTML/CSS   |  
+                          |  JavaScript  |  
+                          |  Responsive  |  
+                          |  Design    |  
+                          |  CSS      |  
+                          |  Preprocessors|  
+                          +---------------+  
+                              |  
+                              |  
+                              v  
+                          +---------------+  
+                          |  Frontend   |  
+                          |  Frameworks  |  
+                          |  (React,    |  
+                          |  Angular,   |  
+                          |  Vue.js)    |  
+                          +---------------+  
+                              |  
+                              |  
+                              v  
+                          +---------------+  
+                          |  State     |  
+                          |  Management  |  
+                          |  APIs      |  
+                          |  Build Tools |  
+                          |  Testing    |  
+                          |  Git & GitHub|  
+                          +---------------+  
+                              |  
+                              |  
+                              v  
+                          +---------------+  
+                          |  Deployment  |  
+                          |  (Netlify,  |  
+                          |  Heroku,    |  
+                          |  Vercel)    |  
+                          +---------------+
+
+
 **Backend Development Roadmap**
 * Programming Language (JavaScript, Python, Java, C#)
 * Git & GitHub
@@ -46,3 +156,61 @@ This repository contains a curated roadmap for full stack development, including
 * Testing
 * DevOps Basics
 * Cloud Providers
+
+
+                          +---------------+  
+                          |  Backend   |  
+                          |  Development  |  
+                          +---------------+  
+                              |  
+                              |  
+                              v  
+                          +---------------+  
+                          |  Programming  |  
+                          |  Language   |  
+                          |  (JavaScript,  |  
+                          |  Python, Java,  |  
+                          |  C#)      |  
+                          +---------------+  
+                              |  
+                              |  
+                              v  
+                          +---------------+  
+                          |  Web      |  
+                          |  Frameworks  |  
+                          |  (Express.js,  |  
+                          |  Django, Flask, |  
+                          |  Spring Boot) |  
+                          +---------------+  
+                              |  
+                              |  
+                              v  
+                          +---------------+  
+                          |  Databases  |  
+                          |  (SQL, NoSQL) |  
+                          +---------------+  
+                              |  
+                              |  
+                              v  
+                          +---------------+  
+                          |  APIs      |  
+                          |  (REST,    |  
+                          |  GraphQL)   |  
+                          +---------------+  
+                              |  
+                              |  
+                              v  
+                          +---------------+  
+                          |  Security   |  
+                          |  Authentication|  
+                          |  (JWT, OAuth)  |  
+                          +---------------+  
+                              |  
+                              |  
+                              v  
+                          +---------------+  
+                          |  DevOps    |  
+                          |  (Docker, CI/CD, |  
+                          |  AWS/Azure/GCP) |  
+                          +---------------+
+
